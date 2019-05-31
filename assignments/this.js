@@ -40,7 +40,7 @@ this.type=type;
 
 // code example for Explicit Binding
 
-var SayName=function(){
+var SayName = function(){
     console.log('My name is + this.name');
 };
 
